@@ -19,10 +19,9 @@ print(b)
 ```
 
 ## Output:
-
-![Screenshot (2005)](https://github.com/user-attachments/assets/a3f098a6-5a4e-4f93-a316-db08c60a1ec3)
+![ED EX 3](https://github.com/user-attachments/assets/e5f9ae0e-e9de-4a1e-9e53-15692473c0d2)
 
 
 ## Result:
-Thus the inverse of given matrix is successfully solved using python program
+Thus the inverse of given matrix is successfully solved using python program.
 
