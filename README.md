@@ -12,13 +12,21 @@ To write a python program to find the inverse of a matrix
 
 ## Program:
 ```
-a=np.array([[6,2,3],[3,1,1],[10,3,4]])
+#Program to find the inverse of a matrix.
+#Developed by: AMIRTHA VARSHINI M
+#RegisterNumber: 24901093
+
+import numpy as np
+a=np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
 b=np.linalg.inv(a)
 print(b)
+
+
 ```
 
 ## Output:
-![391259509-c0cbdf2e-381d-4ee8-be1e-98192fe1c67d](https://github.com/user-attachments/assets/b0225cbb-f292-4b11-9713-bc604f323491)
+![Screenshot (2025)](https://github.com/user-attachments/assets/2244bbe9-ee9d-4a91-9014-a1284d3005e0)
+
 
 
 ## Result:
