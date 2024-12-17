@@ -12,14 +12,13 @@ To write a python program to find the inverse of a matrix
 
 ## Program:
 ```
-import numpy as np
-a=np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
+a=np.array([[6,2,3],[3,1,1],[10,3,4]])
 b=np.linalg.inv(a)
 print(b)
 ```
 
 ## Output:
-![ED EX 3](https://github.com/user-attachments/assets/e5f9ae0e-e9de-4a1e-9e53-15692473c0d2)
+![391259509-c0cbdf2e-381d-4ee8-be1e-98192fe1c67d](https://github.com/user-attachments/assets/b0225cbb-f292-4b11-9713-bc604f323491)
 
 
 ## Result:
